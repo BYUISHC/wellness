@@ -17,7 +17,7 @@ body, footer{
 *******************************/
 
 body{
-    background-image: url('../images/bg2.png');
+    background-image: url('images/bg2.png');
 } 
 
 /*body img{
@@ -130,7 +130,7 @@ border-radius: 400px / 400px;
 
   footer #home{
     z-index: 4;
-    content: url(../../appBeta/imageshome.png);
+    content: url(appBeta/imageshome.png);
   }
   footer #facebook{
     z-index: 4;
