@@ -340,7 +340,7 @@ z-index: 5;
 #fruits{
   right:-30px;
   bottom: 80px;
-  content: url(images/fruit.jpg)!important;
+  content: url(appBeta/images/fruit.jpg)!important;
 
 }
 
