@@ -179,7 +179,7 @@ border-radius: 400px / 400px;
 }
 
 #waterT input[type=checkbox]:before { 
-  content:url(images/bottle.png);
+  content:url(../images/bottle.png);
   display:inline-block !important;
   width:65px; 
   height:75px;
@@ -188,7 +188,7 @@ z-index: 5;
 }
 
 #waterT input[type=checkbox]:checked:before {
- content:url(images/bottleOp.png);
+ content:url(../images/bottleOp.png);
  display:inline-block; 
  width:5px;
  height:5px; 
@@ -202,14 +202,14 @@ z-index: 5;
 }
 
 #fruitsT input[type=checkbox]:before { 
-  content:url(images/pineapple.png);
+  content:url(../images/pineapple.png);
   display:inline-block;
    width:65px; 
   height:75px;
   visibility: visible; 
 }
 #fruitsT input[type=checkbox]:checked:before {
- content:url(images/pineappleOp.png);
+ content:url(../images/pineappleOp.png);
  display:inline-block; 
  width:5px;
  height:5px; 
@@ -229,7 +229,7 @@ z-index: 5;
 }
 
 #veggiesT input[type=checkbox]:checked:before {
- content:url(images/carrotOp.png);
+ content:url(../images/carrotOp.png);
  display:inline-block; 
  width:5px;
  height:5px; }
@@ -240,7 +240,7 @@ z-index: 5;
 }
 
 #proteinsT input[type=checkbox]:before { 
-  content:url(images/chicken1.png);
+  content:url(../images/chicken1.png);
   display:inline-block !important;
   width:65px; 
   height:75px;
@@ -248,7 +248,7 @@ z-index: 5;
 }
 
 #proteinsT input[type=checkbox]:checked:before {
- content:url(images/chickenOp.png);
+ content:url(../images/chickenOp.png);
  display:inline-block; 
  width:5px;
  height:5px; }
@@ -259,7 +259,7 @@ z-index: 5;
 }
 
 #exerciseT input[type=checkbox]:before { 
-  content:url(images/dumbell.png);
+  content:url(../images/dumbell.png);
   display:inline-block !important;
   width:65px; 
   height:75px;
@@ -267,7 +267,7 @@ z-index: 5;
 }
 
 #exerciseT input[type=checkbox]:checked:before {
- content:url(images/dumbellOp.png);
+ content:url(../images/dumbellOp.png);
  display:inline-block; 
  width:5px;
  height:5px; 
@@ -280,7 +280,7 @@ z-index: 5;
 }
 
 #grainsT input[type=checkbox]:before { 
-  content:url(images/grains1.png);
+  content:url(../images/grains1.png);
   display:inline-block !important;
   width:65px; 
   height:75px;
@@ -288,7 +288,7 @@ z-index: 5;
 }
 
 #grainsT input[type=checkbox]:checked:before {
- content:url(images/grainsOp.png);
+ content:url(../images/grainsOp.png);
  display:inline-block; 
  width:5px;
  height:5px; }    
