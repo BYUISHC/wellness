@@ -17,7 +17,7 @@ body, footer{
 *******************************/
 
 body{
-    background-image: url('appBeta/images/bg2.png');
+    background-image: url('../images/bg2.png');
 } 
 
 /*body img{
@@ -134,19 +134,19 @@ border-radius: 400px / 400px;
   }
   footer #facebook{
     z-index: 4;
-    content: url(images/facebook.png);
+    content: url(../images/facebook.png);
     border-left: 1px solid grey;
 
   }
   footer #blog{
     z-index: 4;
-    content: url(images/blog.png);
+    content: url(../images/blog.png);
     border-left: 1px solid grey ; 
 
   }
   footer #stats{
     z-index: 4;
-    content: url(images/stats.png);
+    content: url(../images/stats.png);
     border-left: 1px solid grey;
 
   }
