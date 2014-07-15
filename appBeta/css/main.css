@@ -340,28 +340,28 @@ z-index: 5;
 #fruits{
   right:-30px;
   bottom: 80px;
-  content: url(appBeta/images/fruit.jpg)!important;
+  content: url(../images/fruit.jpg)!important;
 
 }
 
 #grains{
   top:-10px;
   right:-0.5px;
-  content: url(images/grains.png)!important;
+  content: url(../images/grains.png)!important;
 }
 #proteins{
   top: -10px;
-  content: url(images/chicken.png)!important;
+  content: url(../images/chicken.png)!important;
 }
 
 #veggies{
   bottom:-20px;
-  content: url(images/veggies.jpg)!important;
+  content: url(../images/veggies.jpg)!important;
 
 
 }
 #exercise {
-  content: url(images/fitness.png)!important;
+  content: url(../images/fitness.png)!important;
   z-index:1;
   bottom:-15px;
   left:180px;
@@ -370,7 +370,7 @@ z-index: 5;
 #water {
  left:-30px;
  bottom: 80px;
-  content: url(images/water.jpg)!important;
+  content: url(../images/water.jpg)!important;
 }
 #heart img{
   position: center;
@@ -383,7 +383,7 @@ z-index: 5;
   left:90px;
   bottom: 90px;
 background-color: grey !important;
-    content: url(images/heart.png)!important;
+    content: url(../images/heart.png)!important;
 }
 
 /****************
