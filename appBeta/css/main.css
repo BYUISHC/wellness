@@ -179,7 +179,7 @@ border-radius: 400px / 400px;
 }
 
 #waterT input[type=checkbox]:before { 
-  content:url(../../appBeta/images/bottle.png);
+  content:url(images/bottle.png);
   display:inline-block !important;
   width:65px; 
   height:75px;
@@ -188,7 +188,7 @@ z-index: 5;
 }
 
 #waterT input[type=checkbox]:checked:before {
- content:url(../../appBeta/images/bottleOp.png);
+ content:url(images/bottleOp.png);
  display:inline-block; 
  width:5px;
  height:5px; 
@@ -202,14 +202,14 @@ z-index: 5;
 }
 
 #fruitsT input[type=checkbox]:before { 
-  content:url(../../appBeta/images/pineapple.png);
+  content:url(images/pineapple.png);
   display:inline-block;
    width:65px; 
   height:75px;
   visibility: visible; 
 }
 #fruitsT input[type=checkbox]:checked:before {
- content:url(../../appBeta/images/pineappleOp.png);
+ content:url(images/pineappleOp.png);
  display:inline-block; 
  width:5px;
  height:5px; 
@@ -221,7 +221,7 @@ z-index: 5;
 }
 
 #veggiesT input[type=checkbox]:before { 
-  content:url(../../appBeta/images/carrot.png);
+  content:url(images/carrot.png);
   display:inline-block !important;
   width:95px; 
   height:75px;
@@ -229,7 +229,7 @@ z-index: 5;
 }
 
 #veggiesT input[type=checkbox]:checked:before {
- content:url(../../appBeta/images/carrotOp.png);
+ content:url(images/carrotOp.png);
  display:inline-block; 
  width:5px;
  height:5px; }
@@ -240,7 +240,7 @@ z-index: 5;
 }
 
 #proteinsT input[type=checkbox]:before { 
-  content:url(../../appBeta/images/chicken1.png);
+  content:url(images/chicken1.png);
   display:inline-block !important;
   width:65px; 
   height:75px;
@@ -248,7 +248,7 @@ z-index: 5;
 }
 
 #proteinsT input[type=checkbox]:checked:before {
- content:url(../../appBeta/images/chickenOp.png);
+ content:url(images/chickenOp.png);
  display:inline-block; 
  width:5px;
  height:5px; }
@@ -259,7 +259,7 @@ z-index: 5;
 }
 
 #exerciseT input[type=checkbox]:before { 
-  content:url(../../appBeta/images/dumbell.png);
+  content:url(images/dumbell.png);
   display:inline-block !important;
   width:65px; 
   height:75px;
@@ -267,7 +267,7 @@ z-index: 5;
 }
 
 #exerciseT input[type=checkbox]:checked:before {
- content:url(../../appBeta/images/dumbellOp.png);
+ content:url(images/dumbellOp.png);
  display:inline-block; 
  width:5px;
  height:5px; 
@@ -280,7 +280,7 @@ z-index: 5;
 }
 
 #grainsT input[type=checkbox]:before { 
-  content:url(../../appBeta/images/grains1.png);
+  content:url(images/grains1.png);
   display:inline-block !important;
   width:65px; 
   height:75px;
@@ -288,7 +288,7 @@ z-index: 5;
 }
 
 #grainsT input[type=checkbox]:checked:before {
- content:url(../../appBeta/images/grainsOp.png);
+ content:url(images/grainsOp.png);
  display:inline-block; 
  width:5px;
  height:5px; }    
@@ -340,28 +340,28 @@ z-index: 5;
 #fruits{
   right:-30px;
   bottom: 80px;
-  content: url(../../appBeta/images/fruit.jpg)!important;
+  content: url(images/fruit.jpg)!important;
 
 }
 
 #grains{
   top:-10px;
   right:-0.5px;
-  content: url(../../appBeta/images/grains.png)!important;
+  content: url(images/grains.png)!important;
 }
 #proteins{
   top: -10px;
-  content: url(../../appBeta/images/chicken.png)!important;
+  content: url(images/chicken.png)!important;
 }
 
 #veggies{
   bottom:-20px;
-  content: url(../../appBeta/images/veggies.jpg)!important;
+  content: url(images/veggies.jpg)!important;
 
 
 }
 #exercise {
-  content: url(../../appBeta/images/fitness.png)!important;
+  content: url(images/fitness.png)!important;
   z-index:1;
   bottom:-15px;
   left:180px;
@@ -370,7 +370,7 @@ z-index: 5;
 #water {
  left:-30px;
  bottom: 80px;
-  content: url(../../appBeta/images/water.jpg)!important;
+  content: url(images/water.jpg)!important;
 }
 #heart img{
   position: center;
@@ -383,7 +383,7 @@ z-index: 5;
   left:90px;
   bottom: 90px;
 background-color: grey !important;
-    content: url(../../appBeta/images/heart.png)!important;
+    content: url(images/heart.png)!important;
 }
 
 /****************
